@@ -7,8 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-![finished proto (1).png](..%2F..%2F..%2FDownloads%2Ffinished%20proto%20%281%29.png)
+[Maguy_Bikene_Resume2.![finished proto (2).png](..%2F..%2F..%2FDownloads%2Ffinished%20proto%20%282%29.png)pdf](..%2F..%2F..%2FDownloads%2FMaguy_Bikene_Resume2.pdf)
 
 ### Project Tracker
 
